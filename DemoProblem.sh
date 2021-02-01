@@ -7,3 +7,6 @@ number2=5
 
 sum=$((number1+number2))
 echo $sum
+
+subtraction=$((number1-number2))
+echo $subtraction
